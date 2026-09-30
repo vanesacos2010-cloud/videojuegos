@@ -1,0 +1,25 @@
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+h2{
+    color: cadetblue;
+}
+
+img{
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+img:hover{
+    width: 220px;
+    height: 140px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
